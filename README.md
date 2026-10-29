@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Braido 👋
+# Hi, I'm Paulo Gabriel Braido 👋
 
 **Full Stack Developer** from Brazil · PHP · TypeScript · WordPress · Linux · Cloudflare
 
